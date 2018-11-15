@@ -1,0 +1,3 @@
+base A
+rule A AB
+rule B A
